@@ -46,7 +46,7 @@ namespace WpfApp1
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
             lblOk.Content = "Why are you asking a program about this?";
-
+            //Asd
 
         }
 
